@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex (@1UnkMan3)
 - 👀 I’m interested in computer technology and programming on PHP and JavaScript
 - 🌱 I’m currently learning PHP, JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on with company who need some good persont in creating and supporting projects
 - 📫 How to reach me by email me 1unkman3@gmail.com
 
 <!---
